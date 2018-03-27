@@ -1,0 +1,3 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/closest?longitude=-86&latitude=-82&limit=10",416,0,32000,31009,4913,33076,1096,3.08
+"None","Total",416,0,32000,31009,4913,33076,1096,3.08
